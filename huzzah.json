@@ -1,0 +1,20 @@
+[
+	{	
+		"phrase": "Hazzah!"
+	},
+	{	
+		"phrase": "Fer shure!"
+	},
+	{	
+		"phrase": "That is {{scope}} kinds of awesome!",
+		"options": {
+			"scope": ["all", "several"]
+		}
+	},
+	{	
+		"phrase": "...through the gift of {{gift}}.",
+		"options": {
+			"gift": ["voodoo", "magic", "interpretive dance", "mime"]
+		}
+	}
+]
