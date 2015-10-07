@@ -1,12 +1,15 @@
 [
 	{	
-		"phrase": "Huzzah!"
+		"phrase": "huzzah!"
 	},
 	{	
-		"phrase": "Fer shure!"
+		"phrase": "I don't have any catchphrases."
 	},
 	{	
-		"phrase": "That is {{scope}} kinds of awesome!",
+		"phrase": "fer shure!"
+	},
+	{	
+		"phrase": "that is {{scope}} kinds of awesome!",
 		"options": {
 			"scope": ["all", "several"]
 		}
@@ -16,5 +19,105 @@
 		"options": {
 			"gift": ["voodoo", "magic", "interpretive dance", "mime"]
 		}
+	},
+	{	
+		"phrase": "ooh{{name}}, you tit!",
+		"options": {
+			"name": [" Savage,", ""]
+		}
+	},
+	{	
+		"phrase": "neohawrh!"
+	},
+	{	
+		"phrase": "I wonder... what I'm wondering is..."
+	},
+	{	
+		"phrase": "I'll don my {{garment}} of {{abstractNoun}}.",
+		"options": {
+			"garment": ["hat", "jerkin", "merkin", "pixie boots", "plus fours", "socks", "pantaloons", "boots"],
+			"abstractNoun": ["judgement", "disappointment", "despair"]
+		}
+	},
+	{	
+		"phrase": "when that makes the list of the top ten things that are wrong in my life..."
+	},
+	{	
+		"phrase": "my first {{noun}}.",
+		"options": {
+			"noun": ["font", "search engine"]
+		}
+	},
+	{
+		"phrase": "kiss my ass!"
+	},
+	{	
+		"phrase": "no, thank *you*!"
+	},
+	{	
+		"phrase": "what is this beardy weirdness?!"
+	},
+	{	
+		"phrase": "you're dead to me."
+	},
+	{	
+		"phrase": "whhyyyyy?!"
+	},
+	{	
+		"phrase": "you, sir, are welcome!"
+	},
+	{	
+		"phrase": "it blows my {{scale}} mind!",
+		"options": {
+			"scale": ["tiny", "tiny little"]
+		}
+	},
+	{	
+		"phrase": "{{scalar}} for a given value of {{scalar}}.",
+		"options": {
+			"scalar": ["done"]
+		}
+	},
+	{	
+		"phrase": "if this works, I shall declare myself king of the world!"
+	},
+	{	
+		"phrase": "what's the worst that could happen, yeah?"
+	},
+	{	
+		"phrase": "damn you {{product}}.",
+		"options": {
+			"product": ["Sage", "Kendo", "Visual Studio"]
+		}
+	},
+	{	
+		"phrase": "what have you done{{subject}}?!",
+		"options": {
+			"subject": [" to your computer", ""]
+		}
+	},
+	{	
+		"phrase": "that's voodoo magic!"
+	},
+	{	
+		"phrase": "for HR and legal purposes you are not {{insult}}; I'm sure there are laws and shit about that.",
+		"options": {
+			"subject": ["a dick"]
+		}
+	},
+	{	
+		"phrase": "what is this {{thing}}!?",
+		"options": {
+			"thing": ["beardy weirdnes", "madness", "frigging nonsense"]
+		}
+	},
+	{	
+		"phrase": "Linux is nothing but an animated GIF.{{additionalRant}}",
+		"options": {
+			"additionalRant": [" It's not even a GIF, it's a bitmap image.", " It's not even a GIF, it's a sticker on the screen.", ""]
+		}
+	},
+	{	
+		"phrase": "that's easy for *you* to say!"
 	}
 ]
