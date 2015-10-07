@@ -55,9 +55,6 @@
 		"phrase": "no, thank *you*!"
 	},
 	{	
-		"phrase": "what is this beardy weirdness?!"
-	},
-	{	
 		"phrase": "you're dead to me."
 	},
 	{	
@@ -108,7 +105,7 @@
 	{	
 		"phrase": "what is this {{thing}}!?",
 		"options": {
-			"thing": ["beardy weirdnes", "madness", "frigging nonsense"]
+			"thing": ["beardy weirdness", "madness", "frigging nonsense"]
 		}
 	},
 	{	
