@@ -23,7 +23,7 @@
 	{	
 		"phrase": "ooh{{name}}, you tit!",
 		"options": {
-			"name": [" Savage,", ""]
+			"name": [" Savage", ""]
 		}
 	},
 	{	
@@ -99,7 +99,7 @@
 	{	
 		"phrase": "for HR and legal purposes you are not {{insult}}; I'm sure there are laws and shit about that.",
 		"options": {
-			"subject": ["a dick"]
+			"insult": ["a dick"]
 		}
 	},
 	{	
