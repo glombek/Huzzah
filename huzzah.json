@@ -21,9 +21,9 @@
 		}
 	},
 	{	
-		"phrase": "ooh{{name}}, you tit!",
+		"phrase": "ooh{{#name}} {{name}}{{/name}}, you tit!",
 		"options": {
-			"name": [" Savage", ""]
+			"name": ["Savage", ""]
 		}
 	},
 	{	
@@ -88,9 +88,9 @@
 		}
 	},
 	{	
-		"phrase": "what have you done{{subject}}?!",
+		"phrase": "what have you done{{#subject}} {{subject}}{{/subject}}?!",
 		"options": {
-			"subject": [" to your computer", ""]
+			"subject": ["to your computer", ""]
 		}
 	},
 	{	
@@ -109,9 +109,9 @@
 		}
 	},
 	{	
-		"phrase": "Linux is nothing but an animated GIF.{{additionalRant}}",
+		"phrase": "Linux is nothing but an animated GIF.{{#additionalRant}} {{additionalRant}}{{/additionalRant}}",
 		"options": {
-			"additionalRant": [" It's not even a GIF, it's a bitmap image.", " It's not even a GIF, it's a sticker on the screen.", ""]
+			"additionalRant": ["It's not even a GIF, it's a bitmap image.", "It's not even a GIF, it's a sticker on the screen.", ""]
 		}
 	},
 	{	
@@ -127,10 +127,10 @@
 		"phrase": "people are wankers."
 	},
 	{	
-		"phrase": "There are many words to describe {{thing}}. {{adjective}} is none of them.",
+		"phrase": "There are many words to describe {{thing}}; {{adjective}} is none of them.",
 		"options": {
 			"thing": ["him", "her", "them", "it"],
-			"adjective": ["Young", "Hip", "Well-endowed", "Correct", "Coquettish"]
+			"adjective": ["young", "hip", "well-endowed", "correct", "coquettish"]
 		}
 	}
 ]
