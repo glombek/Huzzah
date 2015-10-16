@@ -125,5 +125,12 @@
 	},
 	{	
 		"phrase": "people are wankers."
-	}
+	},
+	{	
+		"phrase": "There are many words to describe {{thing}}, but {{adjective}} isn't one of them.",
+		"options": {
+			"thing": ["him", "her", "them", "it"],
+			"adjective": ["young", "hip", "well-endowed"]
+		}
+	},
 ]
