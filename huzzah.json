@@ -127,10 +127,10 @@
 		"phrase": "people are wankers."
 	},
 	{	
-		"phrase": "There are many words to describe {{thing}}, but {{adjective}} isn't one of them.",
+		"phrase": "There are many words to describe {{thing}}. {{adjective}} is none of them.",
 		"options": {
 			"thing": ["him", "her", "them", "it"],
-			"adjective": ["young", "hip", "well-endowed"]
+			"adjective": ["young", "hip", "well-endowed", "correct"]
 		}
 	},
 ]
