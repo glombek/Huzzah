@@ -1,15 +1,15 @@
 [
 	{	
-		"phrase": "huzzah!"
+		"phrase": "Huzzah!"
 	},
 	{	
 		"phrase": "I don't have any catchphrases."
 	},
 	{	
-		"phrase": "fer shure!"
+		"phrase": "Fer shure!"
 	},
 	{	
-		"phrase": "that is {{scope}} kinds of awesome!",
+		"phrase": "That is {{scope}} kinds of awesome!",
 		"options": {
 			"scope": ["all", "several"]
 		}
@@ -21,13 +21,13 @@
 		}
 	},
 	{	
-		"phrase": "ooh{{#name}} {{name}}{{/name}}, you tit!",
+		"phrase": "Ooh{{#name}} {{name}}{{/name}}, you tit!",
 		"options": {
 			"name": ["Savage", ""]
 		}
 	},
 	{	
-		"phrase": "neohawrh!"
+		"phrase": "Neohawrh!"
 	},
 	{	
 		"phrase": "I wonder... what I'm wondering is..."
@@ -40,70 +40,70 @@
 		}
 	},
 	{	
-		"phrase": "when that makes the list of the top ten things that are wrong in my life..."
+		"phrase": "When that makes the list of the top ten things that are wrong in my life..."
 	},
 	{	
-		"phrase": "my first {{noun}}.",
+		"phrase": "My first {{noun}}.",
 		"options": {
 			"noun": ["font", "search engine"]
 		}
 	},
 	{
-		"phrase": "kiss my ass!"
+		"phrase": "Kiss my ass!"
 	},
 	{	
-		"phrase": "no, thank *you*!"
+		"phrase": "No, thank *you*!"
 	},
 	{	
-		"phrase": "you're dead to me."
+		"phrase": "You're dead to me."
 	},
 	{	
-		"phrase": "whhyyyyy?!"
+		"phrase": "Whhyyyyy?!"
 	},
 	{	
-		"phrase": "you, sir, are welcome!"
+		"phrase": "You, sir, are welcome!"
 	},
 	{	
-		"phrase": "it blows my {{scale}} mind!",
+		"phrase": "It blows my {{scale}} mind!",
 		"options": {
 			"scale": ["tiny", "tiny little"]
 		}
 	},
 	{	
-		"phrase": "{{scalar}} for a given value of {{scalar}}.",
+		"phrase": "{{scalar.sentenceCase}} for a given value of {{scalar.lowerCase}}.",
 		"options": {
-			"scalar": ["done"]
+			"scalar": [{"sentenceCase": "Done", "lowerCase": "done"}]
 		}
 	},
 	{	
-		"phrase": "if this works, I shall declare myself king of the world!"
+		"phrase": "If this works, I shall declare myself king of the world!"
 	},
 	{	
-		"phrase": "what's the worst that could happen, yeah?"
+		"phrase": "What's the worst that could happen, yeah?"
 	},
 	{	
-		"phrase": "damn you {{product}}.",
+		"phrase": "Damn you {{product}}.",
 		"options": {
 			"product": ["Sage", "Kendo", "Visual Studio"]
 		}
 	},
 	{	
-		"phrase": "what have you done{{#subject}} {{subject}}{{/subject}}?!",
+		"phrase": "What have you done{{#subject}} {{subject}}{{/subject}}?!",
 		"options": {
 			"subject": ["to your computer", ""]
 		}
 	},
 	{	
-		"phrase": "that's voodoo magic!"
+		"phrase": "That's voodoo magic!"
 	},
 	{	
-		"phrase": "for HR and legal purposes you are not {{insult}}; I'm sure there are laws and shit about that.",
+		"phrase": "For HR and legal purposes you are not {{insult}}; I'm sure there are laws and shit about that.",
 		"options": {
 			"insult": ["a dick", "a bell end", "an idiot"]
 		}
 	},
 	{	
-		"phrase": "what is this {{thing}}!?",
+		"phrase": "What is this {{thing}}!?",
 		"options": {
 			"thing": ["beardy weirdness", "madness", "frigging nonsense"]
 		}
@@ -115,16 +115,16 @@
 		}
 	},
 	{	
-		"phrase": "that's easy for *you* to say!"
+		"phrase": "That's easy for *you* to say!"
 	},
 	{	
-		"phrase": "oh my God... it *works*!"
+		"phrase": "Oh my God... it *works*!"
 	},
 	{	
-		"phrase": "woooooooooo....OOOOOOOOOOH!"
+		"phrase": "Woooooooooo....OOOOOOOOOOH!"
 	},
 	{	
-		"phrase": "people are wankers."
+		"phrase": "People are wankers."
 	},
 	{	
 		"phrase": "There are many words to describe {{thing}}; {{adjective}} is none of them.",
