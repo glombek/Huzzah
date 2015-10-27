@@ -17,7 +17,7 @@
 	{	
 		"phrase": "...through the gift of {{gift}}.",
 		"options": {
-			"gift": ["voodoo", "magic", "interpretive dance", "mime"]
+			"gift": ["voodoo", "magic", "interpretive dance", "mime", "XAML"]
 		}
 	},
 	{	
