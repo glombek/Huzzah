@@ -143,5 +143,12 @@
 	},
 	{	
 		"phrase": "Home for tea and medals!"
+	},
+	{	
+		"phrase": "There ain't no {{thing}} that can't be improved by {{improvement}}.",
+		"options": {
+			"thing": ["sandwich", "movie"],
+			"improvement": ["a packet of crisps", "the addition of Benedict Cumberbatch"]
+		}
 	}
 ]
