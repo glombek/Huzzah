@@ -140,5 +140,8 @@
 			"quantity": ["sprinkling", "splattering", "pinch", "smear"],
 			"work": ["support", "devlopment", "wishlist development", "meetings"]
 		}
+	},
+	{	
+		"phrase": "Home for tea and medals!"
 	}
 ]
