@@ -137,7 +137,7 @@
 	{	
 		"phrase": "Today, I'll be doing a {{quantity}} of {{work}}.",
 		"options": {
-			"quantity": ["sprinkling", "splattering", "pinch"],
+			"quantity": ["sprinkling", "splattering", "pinch", "smear"],
 			"work": ["support", "devlopment", "wishlist development", "meetings"]
 		}
 	}
