@@ -64,8 +64,9 @@
 		"phrase": "You, sir, are welcome!"
 	},
 	{	
-		"phrase": "It blows my {{scale}} mind!",
+		"phrase": "It {{verb}} my {{scale}} mind!",
 		"options": {
+			"verb": ["blows", "boggles"]
 			"scale": ["tiny", "tiny little"]
 		}
 	},
