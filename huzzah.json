@@ -106,7 +106,7 @@
 	{	
 		"phrase": "What is this {{thing}}!?",
 		"options": {
-			"thing": ["beardy weirdness", "madness", "frigging nonsense"]
+			"thing": ["beardy weirdness", "madness", "frigging nonsense", "*magic*"]
 		}
 	},
 	{	
