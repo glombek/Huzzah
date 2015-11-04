@@ -155,7 +155,7 @@
 		"phrase": "{{word.start}}- my -{{word.end}}.",
 		"options": {
 			"word": [
-					{ "start": "speci", "end": "ficity" }
+					{ "start": "Speci", "end": "ficity" }
 				]
 		}
 	}
