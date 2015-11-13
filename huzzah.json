@@ -158,5 +158,12 @@
 					{ "start": "Speci", "end": "ficity" }
 				]
 		}
+	},
+	{	
+		"phrase": "If you have never {{action}}, I {{adverb}} recommend that you do.",
+		"options": {
+			"action": ["seen it", "done so"],
+			"adverb": ["heartily", "strongly", "highly"]
+		}
 	}
 ]
