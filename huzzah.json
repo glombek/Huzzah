@@ -173,7 +173,7 @@
 		"phrase": "#thisfauxrurallife"
 	},
 	{	
-		"phrase": "{{verb}} *all* the {{subjects}}"!,
+		"phrase": "{{verb}} *all* the {{subjects}}!",
 		"options": {
 			"verb": ["Do", "Migrate", "Return"],
 			"subjects": ["things", "datas"]
