@@ -178,5 +178,11 @@
 			"verb": ["Do", "Migrate", "Return"],
 			"subjects": ["things", "datas"]
 		}
+	},
+	{	
+		"phrase": "{{verb}} it! {{verb}} it *hard*!",
+		"options": {
+			"verb": ["Do", "Build"]
+		}
 	}
 ]
