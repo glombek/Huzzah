@@ -89,9 +89,9 @@
 		}
 	},
 	{	
-		"phrase": "What have you done{{#subject}} {{subject}}{{/subject}}?!",
+		"phrase": "What have you **done**{{#subject}} {{subject}}{{/subject}}?!",
 		"options": {
-			"subject": ["to your computer", ""]
+			"subject": ["to your **computer**", ""]
 		}
 	},
 	{	
@@ -183,6 +183,12 @@
 		"phrase": "{{verb}} it! {{verb}} it *hard*!",
 		"options": {
 			"verb": ["Do", "Build"]
+		}
+	},
+	{	
+		"phrase": "Oh {{subject}}, what **have** you done?!",
+		"options": {
+			"subject": ["client", "colleague", "you", "software package"]
 		}
 	}
 ]
