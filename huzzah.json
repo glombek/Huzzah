@@ -130,8 +130,8 @@
 	{	
 		"phrase": "There are many words to describe {{thing}}; {{adjective}} is none of them.",
 		"options": {
-			"thing": ["him", "her", "them", "it"],
-			"adjective": ["young", "hip", "well-endowed", "correct", "coquettish"]
+			"thing": ["him", "her", "them", "it", "me"],
+			"adjective": ["young", "hip", "well-endowed", "correct", "coquettish", "funny"]
 		}
 	},
 	{	
