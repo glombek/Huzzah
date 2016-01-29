@@ -85,7 +85,7 @@
 	{	
 		"phrase": "Damn you {{product}}.",
 		"options": {
-			"product": ["finance package", "JavaScript library", "IDE"]
+			"product": ["finance package", "JavaScript library", "IDE", "anti-virus"]
 		}
 	},
 	{	
