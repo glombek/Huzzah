@@ -199,5 +199,11 @@
 	},
 	{	
 		"phrase": "Just for shits and giggles."
-	}
+	},
+	{	
+		"phrase": "SP{{as}}CCE!",
+		"options": {
+			"as": ["AAA", "AAAAAAAAA", "AAAAAAAAAAAAAAAAAA"]
+		}
+	},
 ]
