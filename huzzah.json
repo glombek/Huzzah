@@ -211,5 +211,11 @@
 	},
 	{	
 		"phrase": "Fan-tab-ulous!"
+	},
+	{	
+		"phrase": "{{start}}OOOOOOOOOOOOOOOOOOOOO- oh.",
+		"options": {
+			"start": ["N", "G", "O"]
+		}
 	}
 ]
