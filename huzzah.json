@@ -248,5 +248,11 @@
 	},
 	{	
 		"phrase": "Well that's... suboptimal..."
+	},
+	{	
+		"phrase": "Oh, that old chestnut{ending}",
+		"options": {
+			"ending": ["!", ", eh?"]
+		}
 	}
 ]
