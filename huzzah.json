@@ -254,5 +254,14 @@
 		"options": {
 			"ending": ["!", ", eh?"]
 		}
+	},
+	{	
+		"phrase": "How goes {{name}}?",
+		"options": {
+			"name": ["John Doe", "Jane Doe", "John Smith", "Jane Smith"]
+		}
+	},
+	{	
+		"phrase": "Have a pleasant and restful evening!"
 	}
 ]
