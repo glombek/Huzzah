@@ -266,5 +266,15 @@
 	},
 	{	
 		"phrase": "What's the craic with that?"
+	},
+	{	
+		"phrase": "{{phrasing.start}} {{verb}} me greatly{{phrasing.end}}",
+		"options": {
+			"verb": ["cheers", "vexes", "irks", "saddens"],
+			"phrasing": [
+					{ "start": "It", "end": "." },
+					{ "start": "You know what", "end": "?" }
+				]
+		}
 	}
 ]
