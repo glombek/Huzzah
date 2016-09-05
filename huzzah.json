@@ -276,5 +276,8 @@
 					{ "start": "You know what", "end": "?" }
 				]
 		}
+	},
+	{	
+		"phrase": "*DO YOU KNOW WHO I AM?!*"
 	}
 ]
